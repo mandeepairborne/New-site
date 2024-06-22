@@ -15,6 +15,6 @@
   },
   "scripts": {
     "start": "npm-run-all",
-    "build": "node ./bin/build.js"
+    "build": "node ./bin/build.js"y
   }
 }
