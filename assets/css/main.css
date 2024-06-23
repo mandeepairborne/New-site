@@ -555,7 +555,7 @@ section p:last-child {
 
 .footer.blurb > p {
   margin-bottom: 0;
-  line-height: 1.8;
+  line-height: 1;
 }
 
 .footer__links {
