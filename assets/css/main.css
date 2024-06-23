@@ -288,6 +288,11 @@ section p:last-child {
   font-size: 1.2rem;
 }
 
+teaching__course-subtitle {
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
 .teaching__course-period {
   margin-bottom: 5px;
   font-style: italic;
